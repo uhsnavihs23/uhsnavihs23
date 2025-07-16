@@ -1,4 +1,4 @@
-### Hi there, I'm Shivanshu Sharma <br><br>🌍 Consultant passionate about impact-driven solutions, data tools and strategic insights.  <br>I enjoy building practical, user-friendly tools using Python, JavaScript, Apps Script, SQL and Power BI.  <br><br>A firm believer in the power of tech + policy + creativity.<br>🔭 I’m currently working on  <br>• Policy and governance strategy projects<br>• Data Analyst projects<br> <br>🌐 Explore my work: [uhsnavihs23.github.io](https://uhsnavihs23.github.io)
+### Hi there, I'm Shivanshu Sharma <br><br>🌍 Consultant passionate about impact-driven solutions, data tools and strategic insights.  <br><br>A firm believer in the power of tech + policy + creativity.<br>🔭 I’m currently working on  <br>• Policy and governance strategy projects<br>• Data Analyst projects<br> <br>🌐 Explore my work: [uhsnavihs23.github.io](https://uhsnavihs23.github.io)
 
 
 ## 🌐 Socials:
