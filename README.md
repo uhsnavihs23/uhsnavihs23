@@ -1,6 +1,5 @@
 ### Hi there, I'm Shivanshu Sharma <br><br>🌍 Consultant passionate about impact-driven solutions, data tools and strategic insights.  <br><br>A firm believer in the power of tech + policy + creativity.<br>🔭 I’m currently working on  <br>• Policy and governance strategy projects<br>• Data Analyst projects<br> <br>🌐 Explore my work: [uhsnavihs23.github.io](https://uhsnavihs23.github.io)
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shivanshu.sharma.7737) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshu-sharma-2302)
 
